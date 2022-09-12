@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jakisundays/Quiz/static/css/main.01c75f37.css",
-    "main.js": "/Jakisundays/Quiz/static/js/main.b17a510d.js",
-    "index.html": "/Jakisundays/Quiz/index.html",
-    "main.01c75f37.css.map": "/Jakisundays/Quiz/static/css/main.01c75f37.css.map",
-    "main.b17a510d.js.map": "/Jakisundays/Quiz/static/js/main.b17a510d.js.map"
+    "main.css": "/Quiz/static/css/main.01c75f37.css",
+    "main.js": "/Quiz/static/js/main.b17a510d.js",
+    "index.html": "/Quiz/index.html",
+    "main.01c75f37.css.map": "/Quiz/static/css/main.01c75f37.css.map",
+    "main.b17a510d.js.map": "/Quiz/static/js/main.b17a510d.js.map"
   },
   "entrypoints": [
     "static/css/main.01c75f37.css",
