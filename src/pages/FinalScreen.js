@@ -13,7 +13,7 @@ const FinalScreen = () => {
   const handleBackToSettings = () => {
     disptach(handleScoreChange(0));
     disptach(handleAmountChange(50));
-    navigate("/");
+    navigate("/Quiz");
   };
 
   return (
