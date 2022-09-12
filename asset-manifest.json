@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jakisundays/Quiz/static/css/main.01c75f37.css",
-    "main.js": "/Jakisundays/Quiz/static/js/main.1addc0a6.js",
+    "main.js": "/Jakisundays/Quiz/static/js/main.4ad1036b.js",
     "index.html": "/Jakisundays/Quiz/index.html",
     "main.01c75f37.css.map": "/Jakisundays/Quiz/static/css/main.01c75f37.css.map",
-    "main.1addc0a6.js.map": "/Jakisundays/Quiz/static/js/main.1addc0a6.js.map"
+    "main.4ad1036b.js.map": "/Jakisundays/Quiz/static/js/main.4ad1036b.js.map"
   },
   "entrypoints": [
     "static/css/main.01c75f37.css",
-    "static/js/main.1addc0a6.js"
+    "static/js/main.4ad1036b.js"
   ]
 }
