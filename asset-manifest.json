@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jakisundays/Quiz.git/static/css/main.01c75f37.css",
+    "main.js": "/Jakisundays/Quiz.git/static/js/main.1addc0a6.js",
+    "index.html": "/Jakisundays/Quiz.git/index.html",
+    "main.01c75f37.css.map": "/Jakisundays/Quiz.git/static/css/main.01c75f37.css.map",
+    "main.1addc0a6.js.map": "/Jakisundays/Quiz.git/static/js/main.1addc0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c75f37.css",
+    "static/js/main.1addc0a6.js"
+  ]
+}
