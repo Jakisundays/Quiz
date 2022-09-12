@@ -9,7 +9,7 @@ function App() {
     <Container maxWidth='sm'>
       <Box textAlign='center' mt={5} >
         <Routes>
-          <Route index path='/Jakisundays/Quiz' element={<Settings />} />
+          <Route index path='/Quiz' element={<Settings />} />
           <Route path='questions' element={<Questions />} />
           <Route path='score' element={<FinalScreen />} />
         </Routes>
